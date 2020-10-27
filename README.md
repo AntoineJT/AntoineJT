@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Antoine Tournepiche, and I'm a french student in IT.
+
+You can find some of my projects here, and a ton of fork too.
+
+I love open source, that's why since I learned the existence of Hacktoberfest in 2019, I do some PRs in October to get their special limited t-shirt.
+
+#### Some stats about me
+
+<img align="left" alt="AntoineJT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AntoineJT&show_icons=true&hide_border=true" />
+
 <!--
 **AntoineJT/AntoineJT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
