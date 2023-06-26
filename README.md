@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is Antoine Tournepiche, and I'm a french student in IT.
+My name is Antoine Tournepiche, and I'm a french IT developer.
 
-You can find some of my projects here, and a ton of fork too.
-
-I love open source, that's why since I learned the existence of Hacktoberfest in 2019, I do some PRs in October to get their special limited t-shirt.
+You can find some of my projects here, and a ton of forks too.
 
 #### Some stats about me
 
